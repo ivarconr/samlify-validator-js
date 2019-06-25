@@ -1,6 +1,6 @@
 {
   "name": "@authenio/samlify-node-xmllint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validator module powered by node-xmllint",
   "main": "build/index.js",
   "scripts": {
