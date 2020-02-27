@@ -1,4 +1,5 @@
 node_modules
 yarn*
 *.ts
+!*.d.ts
 tsconfig.json
