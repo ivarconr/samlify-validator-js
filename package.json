@@ -4,8 +4,7 @@
   "description": "Validator module powered by node-xmllint",
   "main": "build/index.js",
   "scripts": {
-    "build": "yarn run clean && yarn run cp-schemas && tsc",
-    "cp-schemas": "mkdir -p build/schemas && cp -R schemas build",
+    "build": "yarn run clean && tsc --diagnostics",
     "clean": "rm -rf build"
   },
   "repository": {

@@ -1,4 +1,4 @@
-<schema
+export default `<schema
     targetNamespace="urn:oasis:names:tc:SAML:2.0:assertion"
     xmlns="http://www.w3.org/2001/XMLSchema"
     xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"
@@ -279,4 +279,4 @@
     </complexType>
     <element name="AttributeValue" type="anyType" nillable="true"/>
     <element name="EncryptedAttribute" type="saml:EncryptedElementType"/>
-</schema>
+</schema>`;

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+export default `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE schema SYSTEM "XMLSchema.dtd"
  [
    <!ATTLIST schema 
@@ -314,4 +314,4 @@
 
 <!-- End Signature -->
 
-</schema>
+</schema>`;

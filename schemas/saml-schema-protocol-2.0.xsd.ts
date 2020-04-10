@@ -1,4 +1,4 @@
-<schema
+export default `<schema
     targetNamespace="urn:oasis:names:tc:SAML:2.0:protocol"
     xmlns="http://www.w3.org/2001/XMLSchema"
     xmlns:samlp="urn:oasis:names:tc:SAML:2.0:protocol"
@@ -298,4 +298,4 @@
             </extension>
         </complexContent>
     </complexType>
-</schema>
+</schema>`;
