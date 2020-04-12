@@ -1,4 +1,4 @@
-<!-- DTD for XML Schemas: Part 1: Structures
+export default `<!-- DTD for XML Schemas: Part 1: Structures
      Public Identifier: "-//W3C//DTD XMLSCHEMA 200102//EN"
      Official Location: http://www.w3.org/2001/XMLSchema.dtd -->
 <!-- $Id: XMLSchema.dtd,v 1.31 2001/10/24 15:50:16 ht Exp $ -->
@@ -399,4 +399,4 @@
 <!NOTATION XMLSchemaStructures PUBLIC
            'structures' 'http://www.w3.org/2001/XMLSchema.xsd' >
 <!NOTATION XML PUBLIC
-           'REC-xml-1998-0210' 'http://www.w3.org/TR/1998/REC-xml-19980210' >
+           'REC-xml-1998-0210' 'http://www.w3.org/TR/1998/REC-xml-19980210' >`;

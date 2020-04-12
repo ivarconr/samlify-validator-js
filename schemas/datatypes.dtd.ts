@@ -1,4 +1,4 @@
-<!--
+export default `<!--
         DTD for XML Schemas: Part 2: Datatypes
         $Id: datatypes.dtd,v 1.23 2001/03/16 17:36:30 ht Exp $
         Note this DTD is NOT normative, or even definitive. - - the
@@ -200,4 +200,4 @@
 <!ELEMENT %pattern; %facetModel;>
 <!ATTLIST %pattern;
         %facetAttr;
-        %patternAttrs;>
+        %patternAttrs;>`;
