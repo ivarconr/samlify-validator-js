@@ -1,5 +1,4 @@
 import * as mod from 'node-xmllint';
-import * as fs from 'fs';
 
 import xsd from './schemas/saml-schema-protocol-2.0.xsd';
 import assertion from './schemas/saml-schema-assertion-2.0.xsd';
