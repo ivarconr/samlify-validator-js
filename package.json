@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/authenio/samlify-node-xmllint.git"
+    "url": "git+https://github.com/ivarconr/samlify-validator-js.git"
   },
   "author": "ivarconr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/authenio/samlify-node-xmllint/issues"
+    "url": "https://github.com/ivarconr/samlify-validator-js/issues"
   },
-  "homepage": "https://github.com/authenio/samlify-node-xmllint#readme",
+  "homepage": "https://github.com/ivarconr/samlify-validator-js#readme",
   "devDependencies": {
     "@types/node": "^12.0.4",
     "copyfiles": "^2.4.1",
