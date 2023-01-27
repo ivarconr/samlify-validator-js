@@ -1,4 +1,4 @@
-import * as mod from 'node-xmllint';
+import * as mod from './node-xmllint';
 
 import xsd from './schemas/saml-schema-protocol-2.0.xsd';
 import assertion from './schemas/saml-schema-assertion-2.0.xsd';
@@ -21,7 +21,7 @@ export const validate = (xml: string) => {
       return resolve('SUCCESS_VALIDATE_XML');
     }
 
-    console.error(`this is not a valid saml response with errors: ${validationResult.errors}`);
+    // console.error(`this is not a valid saml response with errors: ${validationResult.errors}`);
     return reject('ERR_EXCEPTION_VALIDATE_XML');
   });
 };
