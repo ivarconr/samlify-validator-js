@@ -1,6 +1,6 @@
 {
   "name": "samlify-validator-js",
-  "version": "2.0.0",
+  "version": "0.0.1",
   "description": "Validator module powered by a pure javascript implementation (no external dependencies)",
   "main": "build/index.js",
   "scripts": {
